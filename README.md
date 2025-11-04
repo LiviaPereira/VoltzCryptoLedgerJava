@@ -4,6 +4,8 @@
 **Turma:** 2ESOR-2025  
 **RM:** 559414
 
+**GITHUB:** https://github.com/LiviaPereira/VoltzCryptoLedgerJava
+
 ---
 
 ## 🧭 Visão geral do projeto
